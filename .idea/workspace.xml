@@ -4,21 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41a624bb-55da-4b30-937e-5a39413aa4a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/AI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Sheep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/internal/BaseAnimal.java" afterDir="false" />
+    <list default="true" id="41a624bb-55da-4b30-937e-5a39413aa4a0" name="Changes" comment="Some basic version used for the OOP1">
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Carnivores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/FruiteEaters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/generics/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/others/Diamonds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/others/Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/others/MyObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/principles/ElectricalCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/principles/Principle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/principles/Principle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/principles/Principle3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/principles/Principle4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bg/jug/oop1/session3/principles/Principle5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Sheep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/Sheep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bg/jug/oop1/libs/internal/BaseAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bg/jug/oop1/libs/internal/BaseAnimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +38,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -51,26 +60,28 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/oop&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="bg.jug.oop1.session3.principles" />
       <recent name="bg.jug.oop1.libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AI">
-    <configuration name="AI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bg.jug.oop1.libs.AI" />
+  <component name="RunManager" selected="Application.Generics">
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.jug.oop1.session3.generics.Generics" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bg.jug.oop1.libs.internal.*" />
+          <option name="PATTERN" value="bg.jug.oop1.session3.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +89,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bg.jug.oop1.Main" />
+    <configuration name="Principle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.jug.oop1.session3.principles.Principle1" />
       <module name="oop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bg.jug.oop1.*" />
+          <option name="PATTERN" value="bg.jug.oop1.session3.principles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.jug.oop1.session3.principles.Principle2" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.jug.oop1.session3.principles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principle3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.jug.oop1.session3.principles.Principle3" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.jug.oop1.session3.principles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bg.jug.oop1.session3.others.Diamonds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.jug.oop1.session3.others.Diamonds" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.jug.oop1.session3.others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AI" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Generics" />
+        <item itemvalue="Application.Principle3" />
+        <item itemvalue="Application.Principle2" />
+        <item itemvalue="Application.Principle1" />
+        <item itemvalue="Application.bg.jug.oop1.session3.others.Diamonds" />
       </list>
     </recent_temporary>
   </component>
@@ -108,12 +161,36 @@
       <updated>1682587681361</updated>
       <workItem from="1682587683418" duration="4344000" />
       <workItem from="1683019760179" duration="4913000" />
-      <workItem from="1683150727419" duration="41000" />
+      <workItem from="1683150727419" duration="725000" />
+      <workItem from="1683188652824" duration="9091000" />
     </task>
+    <task id="LOCAL-00001" summary="Some basic version used for the OOP1">
+      <created>1683150804664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683150804664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Some basic version used for the OOP1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some basic version used for the OOP1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

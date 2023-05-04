@@ -38,6 +38,7 @@ public class BaseAnimal implements Animal {
 
     }
 
+
     public void isMeatEater() {
 
     }

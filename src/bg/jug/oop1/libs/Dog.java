@@ -17,4 +17,5 @@ public class Dog extends BaseAnimal implements Animal {
         System.out.println("Bark");
         super.voice();
     }
+
 }
